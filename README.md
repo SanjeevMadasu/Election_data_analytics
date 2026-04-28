@@ -31,3 +31,21 @@ This project analyzes election data across constituencies using SQL.
 - DDL_AND_DML.sql → Database creation
 - SELECT_QUERIES.sql → Basic analysis
 - JOINS.sql → Advanced analysis
+
+  ## 🚀 How to Run This Project
+
+Follow these steps to set up and run the project:
+
+1. Create a new database in MySQL as Election_data
+
+2. Run the schema file to create tables:
+   SOURCE sql/01_ddl and dml_data.sql;
+   SOURCE sql/02_basic sql filtering.sql
+   SOURCE sql/03_advanced joins.sql
+3.Then execute the queries
+
+## Requirements for the execution or run the files
+
+1.MYSQL Workbench to be installed
+2.basic knowledge of my sql
+
